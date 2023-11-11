@@ -22,7 +22,7 @@ License
 
 In this project, we develop a machine learning model to predict salaries for data-related positions. The goal is to provide a tool to help data professionals understand their worth and negotiate better salaries. The project utilizes various data science techniques and algorithms to analyze the dataset and make accurate salary predictions.
 
-**Dataset**
+## **Dataset**
 
 The dataset used in this project contains information about job titles, salary estimates, ratings, company names, locations, and other relevant features. The dataset was preprocessed and cleaned to remove instances without salary estimates and hourly salaries. The cleaned dataset was then used for further analysis and modeling.
 
