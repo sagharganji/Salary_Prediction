@@ -2,7 +2,7 @@
 This is a data science project that aims to predict salaries for data-related positions based on various factors such as location, company review, and job title.
 
 **Table of Contents**
-Project Overview
+Project Overview/n
 Dataset
 Installation
 Usage
